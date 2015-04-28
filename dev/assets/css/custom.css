@@ -1,1 +1,11 @@
-/* Add here all your css styles (customizations) */
+.products {
+  background: url('../img/products.png') no-repeat center;
+  background-size: 100% auto;
+  height: 45px;
+}
+.our-filials {
+  margin-top: 20px;
+  padding-bottom: 15px;
+  text-align: center;
+  font-size: x-large;
+}
